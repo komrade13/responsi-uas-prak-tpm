@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "responsiuas" "\0"
+            VALUE "FileDescription", "responsiuas_revisi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "responsiuas" "\0"
+            VALUE "InternalName", "responsiuas_revisi" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "responsiuas.exe" "\0"
-            VALUE "ProductName", "responsiuas" "\0"
+            VALUE "OriginalFilename", "responsiuas_revisi.exe" "\0"
+            VALUE "ProductName", "responsiuas_revisi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
