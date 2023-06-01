@@ -43,8 +43,6 @@ class MatchesModel {
         date = json['date'] as String?,
         updatedAt = json['updatedAt'] as String?,
         winner = json['winner'] as String?;
-    get homeScore => null;
-    get awayScore => null;
 
   Map<String, dynamic> toJson() => {
     'id' : id,
